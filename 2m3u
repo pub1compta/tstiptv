@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1,----- 0811 --------
+http://iptvextreme.co:8000/live/205/205/60233.ts
+#EXTINF:-1,BEINSPORTS 1 HD
+http://iptvextreme.co:8000/live/205/205/60233.ts
+#EXTINF:-1,BEINSPORTS 2 HD
+http://iptvextreme.co:8000/live/205/205/60232.ts
+#EXTINF:-1,BEINSPORTS 3 HD
+http://iptvextreme.co:8000/live/205/205/60231.ts
+#EXTINF:-1,BEINSPORTS 4 HD
+http://iptvextreme.co:8000/live/205/205/60230.ts
+#EXTINF:-1,BEINSPORTS 5 HD
+http://iptvextreme.co:8000/live/205/205/60229.ts
+#EXTINF:-1,BEINSPORTS 6 HD
+http://iptvextreme.co:8000/live/205/205/60228.ts
+#EXTINF:-1,BEINSPORTS 7 HD
+http://iptvextreme.co:8000/live/205/205/60227.ts
+#EXTINF:-1,BEINSPORTS 8 HD
+http://iptvextreme.co:8000/live/205/205/60226.ts
+#EXTINF:-1,BEINSPORTS 9 HD
+http://iptvextreme.co:8000/live/205/205/60225.ts
+#EXTINF:-1,BEINSPORTS 10 HD
+http://iptvextreme.co:8000/live/205/205/60224.ts
 #EXTINF:-1,----- BienSport --------
 http://212.8.248.213:8080/live/11021102/11021102/185.ts
 #EXTINF:-1,AR: Beuot Q Sport 1 HD
