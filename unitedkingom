@@ -1,0 +1,755 @@
+#EXTM3U
+#EXTINF:-1,ITV Central West FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/28433.ts
+#EXTINF:-1,ITV London FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/28431.ts
+#EXTINF:-1,ITV Meridian East FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/28430.ts
+#EXTINF:-1,ITV Westcountry South West FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/28427.ts
+#EXTINF:-1,ITV Yorkshire West FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/28425.ts
+#EXTINF:-1,ITV HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10547.ts
+#EXTINF:-1,ITV2 HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10546.ts
+#EXTINF:-1,ITV3 HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10545.ts
+#EXTINF:-1,ITV4 HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10544.ts
+#EXTINF:-1,BBC FOUR HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10554.ts
+#EXTINF:-1,BBC NEWS HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10553.ts
+#EXTINF:-1,BBC1 HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10552.ts
+#EXTINF:-1,BBC2 HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10551.ts
+#EXTINF:-1,UK FHD : GOOD FOOD FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84877.ts
+#EXTINF:-1,UK FHD : ALIBI FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84874.ts
+#EXTINF:-1,UK FHD : DAVE FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84875.ts
+#EXTINF:-1,LIFETIME FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84881.ts
+#EXTINF:-1,QUEST FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84884.ts
+#EXTINF:-1,UK FHD : COMEDY CENTRAL FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84876.ts
+#EXTINF:-1,UK FHD : FOX FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84873.ts
+#EXTINF:-1,SKY ONE FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84886.ts
+#EXTINF:-1,UK FHD : SKY ARTS FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84878.ts
+#EXTINF:-1,UK FHD : SKY ATLANTIC HD
+http://vmdirect.co.uk:5001/live/121212/121212/84867.ts
+#EXTINF:-1,UK FHD : SKY WITNESS FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84872.ts
+#EXTINF:-1,UK FHD : SYFY FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84871.ts
+#EXTINF:-1,UK FHD : TLC FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84868.ts
+#EXTINF:-1,UK FHD : GOLD FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84866.ts
+#EXTINF:-1,UK FHD : UNIVERSAL FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84870.ts
+#EXTINF:-1,PARAMOUNT FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84883.ts
+#EXTINF:-1,UK FHD : WATCH FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84869.ts
+#EXTINF:-1,Channel 4 HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10550.ts
+#EXTINF:-1,Channel 5 HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10549.ts
+#EXTINF:-1,E4 HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10548.ts
+#EXTINF:-1,More4 HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10543.ts
+#EXTINF:-1,UK :sky 1 HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10586.ts
+#EXTINF:-1,UK :Watch HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10582.ts
+#EXTINF:-1,UK: Sky Atlantic HD1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10589.ts
+#EXTINF:-1,UK: Sky Living HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10588.ts
+#EXTINF:-1,UK :Universal Channel HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10583.ts
+#EXTINF:-1,UK :SYFY HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10585.ts
+#EXTINF:-1,UK: Sky Arts FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10590.ts
+#EXTINF:-1,UK:FOX HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10601.ts
+#EXTINF:-1,UK: LifeTime HD1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10600.ts
+#EXTINF:-1,UK: Alibi HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10605.ts
+#EXTINF:-1,UK: Comedy Centeral HD1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10604.ts
+#EXTINF:-1,UK: Dave HD1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10603.ts
+#EXTINF:-1,UK: Good Food HD1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10602.ts
+#EXTINF:-1,UK: CBBC FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/23887.ts
+#EXTINF:-1,UK :TLC FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/17068.ts
+#EXTINF:-1,BBC Four FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/28441.ts
+#EXTINF:-1,BBC NEWS FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/28440.ts
+#EXTINF:-1,BBC One FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/28439.ts
+#EXTINF:-1,BBC Two FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/28435.ts
+#EXTINF:-1,CBBC FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/28434.ts
+#EXTINF:-1,UK: STV FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/29262.ts
+#EXTINF:-1,4 SevenHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/38898.ts
+#EXTINF:-1,UK BBC 1 hd
+http://vmdirect.co.uk:5001/live/121212/121212/1368.ts
+#EXTINF:-1,UK BBC 2
+http://vmdirect.co.uk:5001/live/121212/121212/1367.ts
+#EXTINF:-1,UK BBC 3
+http://vmdirect.co.uk:5001/live/121212/121212/1366.ts
+#EXTINF:-1,UK BBC 4
+http://vmdirect.co.uk:5001/live/121212/121212/1365.ts
+#EXTINF:-1,UK ITV
+http://vmdirect.co.uk:5001/live/121212/121212/1364.ts
+#EXTINF:-1,UK ITV 2
+http://vmdirect.co.uk:5001/live/121212/121212/1363.ts
+#EXTINF:-1,UK ITV 3
+http://vmdirect.co.uk:5001/live/121212/121212/1362.ts
+#EXTINF:-1,UK ITV 4
+http://vmdirect.co.uk:5001/live/121212/121212/1361.ts
+#EXTINF:-1,UK CHANNEL 4
+http://vmdirect.co.uk:5001/live/121212/121212/1339.ts
+#EXTINF:-1,UK CHANNEL 5
+http://vmdirect.co.uk:5001/live/121212/121212/1340.ts
+#EXTINF:-1,RTE 1
+http://vmdirect.co.uk:5001/live/121212/121212/214.ts
+#EXTINF:-1,RTE 2
+http://vmdirect.co.uk:5001/live/121212/121212/215.ts
+#EXTINF:-1,TV3
+http://vmdirect.co.uk:5001/live/121212/121212/45.ts
+#EXTINF:-1,RTE One HD
+http://vmdirect.co.uk:5001/live/121212/121212/206.ts
+#EXTINF:-1,RTE Two HD
+http://vmdirect.co.uk:5001/live/121212/121212/205.ts
+#EXTINF:-1,3E IRELAND
+http://vmdirect.co.uk:5001/live/121212/121212/204.ts
+#EXTINF:-1,3E Ireland FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/28270.ts
+#EXTINF:-1,Be 3 FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/6111.ts
+#EXTINF:-1,UTV CHANNEL
+http://vmdirect.co.uk:5001/live/121212/121212/202.ts
+#EXTINF:-1,TLC
+http://vmdirect.co.uk:5001/live/121212/121212/169.ts
+#EXTINF:-1,SyFy USA
+http://vmdirect.co.uk:5001/live/121212/121212/3332.ts
+#EXTINF:-1,sky living HD
+http://vmdirect.co.uk:5001/live/121212/121212/3321.ts
+#EXTINF:-1,5 star
+http://vmdirect.co.uk:5001/live/121212/121212/193.ts
+#EXTINF:-1,Alibi
+http://vmdirect.co.uk:5001/live/121212/121212/171.ts
+#EXTINF:-1,Comedy Central
+http://vmdirect.co.uk:5001/live/121212/121212/180.ts
+#EXTINF:-1,Comedy Xtra
+http://vmdirect.co.uk:5001/live/121212/121212/179.ts
+#EXTINF:-1,Dave
+http://vmdirect.co.uk:5001/live/121212/121212/177.ts
+#EXTINF:-1,Dave Ja Vu
+http://vmdirect.co.uk:5001/live/121212/121212/13.ts
+#EXTINF:-1,E!
+http://vmdirect.co.uk:5001/live/121212/121212/43.ts
+#EXTINF:-1,Five USA.
+http://vmdirect.co.uk:5001/live/121212/121212/191.ts
+#EXTINF:-1,Food Network
+http://vmdirect.co.uk:5001/live/121212/121212/170.ts
+#EXTINF:-1,FOX
+http://vmdirect.co.uk:5001/live/121212/121212/176.ts
+#EXTINF:-1,G.O.L.D.
+http://vmdirect.co.uk:5001/live/121212/121212/175.ts
+#EXTINF:-1,ITV Encore
+http://vmdirect.co.uk:5001/live/121212/121212/41.ts
+#EXTINF:-1,Lifetime HD
+http://vmdirect.co.uk:5001/live/121212/121212/165.ts
+#EXTINF:-1,More 4
+http://vmdirect.co.uk:5001/live/121212/121212/190.ts
+#EXTINF:-1,Sky 1
+http://vmdirect.co.uk:5001/live/121212/121212/185.ts
+#EXTINF:-1,Sky 2
+http://vmdirect.co.uk:5001/live/121212/121212/184.ts
+#EXTINF:-1,Sky Arts
+http://vmdirect.co.uk:5001/live/121212/121212/181.ts
+#EXTINF:-1,Sky Atlantic
+http://vmdirect.co.uk:5001/live/121212/121212/182.ts
+#EXTINF:-1,Sky Living
+http://vmdirect.co.uk:5001/live/121212/121212/183.ts
+#EXTINF:-1,Spike
+http://vmdirect.co.uk:5001/live/121212/121212/174.ts
+#EXTINF:-1,SyFy
+http://vmdirect.co.uk:5001/live/121212/121212/172.ts
+#EXTINF:-1,TG4
+http://vmdirect.co.uk:5001/live/121212/121212/203.ts
+#EXTINF:-1,True Entertainment
+http://vmdirect.co.uk:5001/live/121212/121212/164.ts
+#EXTINF:-1,Universal
+http://vmdirect.co.uk:5001/live/121212/121212/44.ts
+#EXTINF:-1,Watch
+http://vmdirect.co.uk:5001/live/121212/121212/173.ts
+#EXTINF:-1,UK E4
+http://vmdirect.co.uk:5001/live/121212/121212/1360.ts
+#EXTINF:-1,Real Lives
+http://vmdirect.co.uk:5001/live/121212/121212/187.ts
+#EXTINF:-1,Pick TV
+http://vmdirect.co.uk:5001/live/121212/121212/189.ts
+#EXTINF:-1,Yesterday
+http://vmdirect.co.uk:5001/live/121212/121212/188.ts
+#EXTINF:-1,Quest
+http://vmdirect.co.uk:5001/live/121212/121212/178.ts
+#EXTINF:-1,CBS Action
+http://vmdirect.co.uk:5001/live/121212/121212/167.ts
+#EXTINF:-1,CBS Drama
+http://vmdirect.co.uk:5001/live/121212/121212/166.ts
+#EXTINF:-1,CBS Reality
+http://vmdirect.co.uk:5001/live/121212/121212/168.ts
+#EXTINF:-1,UK TRUE DRAMA
+http://vmdirect.co.uk:5001/live/121212/121212/1346.ts
+#EXTINF:-1,UK TRUE MOVIES 2
+http://vmdirect.co.uk:5001/live/121212/121212/1348.ts
+#EXTINF:-1,MTV
+http://vmdirect.co.uk:5001/live/121212/121212/66.ts
+#EXTINF:-1,UK: 5 STAR  1
+http://vmdirect.co.uk:5001/live/121212/121212/6459.ts
+#EXTINF:-1,UK: 5 USA  plus 1
+http://vmdirect.co.uk:5001/live/121212/121212/6458.ts
+#EXTINF:-1,UK: AMC
+http://vmdirect.co.uk:5001/live/121212/121212/6457.ts
+#EXTINF:-1,CBS
+http://vmdirect.co.uk:5001/live/121212/121212/6409.ts
+#EXTINF:-1,UK: HORROR CHANNEL
+http://vmdirect.co.uk:5001/live/121212/121212/6452.ts
+#EXTINF:-1,UK: HORROR CHANNEL  1
+http://vmdirect.co.uk:5001/live/121212/121212/6451.ts
+#EXTINF:-1,UK: HORSE & COUNTRY
+http://vmdirect.co.uk:5001/live/121212/121212/6450.ts
+#EXTINF:-1,UK: Movies 24
+http://vmdirect.co.uk:5001/live/121212/121212/3923.ts
+#EXTINF:-1,UK: TRUE MOVIES
+http://vmdirect.co.uk:5001/live/121212/121212/6443.ts
+#EXTINF:-1,UK :ITV BE
+http://vmdirect.co.uk:5001/live/121212/121212/9683.ts
+#EXTINF:-1,UK: s4c Channel
+http://vmdirect.co.uk:5001/live/121212/121212/37908.ts
+#EXTINF:-1,UK FHD : TG 4 FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84853.ts
+#EXTINF:-1,UK FHD : UTV FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84852.ts
+#EXTINF:-1,UK FHD : RTE ONE HD
+http://vmdirect.co.uk:5001/live/121212/121212/84848.ts
+#EXTINF:-1,UK FHD : RTE TWO HD
+http://vmdirect.co.uk:5001/live/121212/121212/84847.ts
+#EXTINF:-1,UK :RTE 1 HD1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10596.ts
+#EXTINF:-1,RTE 2 HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/38486.ts
+#EXTINF:-1,TG4 FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/38487.ts
+#EXTINF:-1,UK FHD : SKY CINEMA ACTION FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84846.ts
+#EXTINF:-1,UK FHD : SKY CINEMA ANIMATION FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84843.ts
+#EXTINF:-1,UK FHD : SKY CINEMA COMEDY FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84845.ts
+#EXTINF:-1,UK FHD : SKY CINEMA DISNEY FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84844.ts
+#EXTINF:-1,UK FHD : SKY CINEMA GREATS FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84842.ts
+#EXTINF:-1,UK FHD : SKY CINEMA PREMIER FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84841.ts
+#EXTINF:-1,UK FHD : SKY CINEMA SELECT FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84839.ts
+#EXTINF:-1,UK FHD : SKY CINEMA SCI-FI FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84840.ts
+#EXTINF:-1,UK FHD : SKY CINEMA THRILLER FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84838.ts
+#EXTINF:-1,SKY  DRAMA FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84880.ts
+#EXTINF:-1,Sky Cinema Action & Adventure HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10542.ts
+#EXTINF:-1,Sky Cinema Comedy HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10541.ts
+#EXTINF:-1,Sky Cinema Crime & Thriller HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10540.ts
+#EXTINF:-1,Sky Cinema Disney HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10539.ts
+#EXTINF:-1,Sky Cinema Drama & Romance HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10538.ts
+#EXTINF:-1,Sky Cinema Family HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10537.ts
+#EXTINF:-1,Sky Cinema Greats HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10536.ts
+#EXTINF:-1,Sky Cinema Hits HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10535.ts
+#EXTINF:-1,Sky Cinema Premiere HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10534.ts
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10533.ts
+#EXTINF:-1,Sky Cinema Select HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10532.ts
+#EXTINF:-1,Sky Movies Premiere
+http://vmdirect.co.uk:5001/live/121212/121212/134.ts
+#EXTINF:-1,Sky Movies Premiere plus  1
+http://vmdirect.co.uk:5001/live/121212/121212/133.ts
+#EXTINF:-1,Sky Movies Premiere HD
+http://vmdirect.co.uk:5001/live/121212/121212/132.ts
+#EXTINF:-1,Sky Movies Action and Adventure
+http://vmdirect.co.uk:5001/live/121212/121212/117.ts
+#EXTINF:-1,Sky Movies Action and Adventure HD
+http://vmdirect.co.uk:5001/live/121212/121212/116.ts
+#EXTINF:-1,Sky Movies Comedy
+http://vmdirect.co.uk:5001/live/121212/121212/119.ts
+#EXTINF:-1,Sky Movies Comedy HD
+http://vmdirect.co.uk:5001/live/121212/121212/118.ts
+#EXTINF:-1,Sky Movies Crime and Thriller
+http://vmdirect.co.uk:5001/live/121212/121212/131.ts
+#EXTINF:-1,Sky Movies Crime and Thriller HD
+http://vmdirect.co.uk:5001/live/121212/121212/130.ts
+#EXTINF:-1,Sky Movies Disney
+http://vmdirect.co.uk:5001/live/121212/121212/123.ts
+#EXTINF:-1,Sky Movies Disney HD
+http://vmdirect.co.uk:5001/live/121212/121212/122.ts
+#EXTINF:-1,Sky Movies Drama and Romance
+http://vmdirect.co.uk:5001/live/121212/121212/113.ts
+#EXTINF:-1,Sky Movies Drama and Romance HD
+http://vmdirect.co.uk:5001/live/121212/121212/112.ts
+#EXTINF:-1,Sky Movies Family
+http://vmdirect.co.uk:5001/live/121212/121212/125.ts
+#EXTINF:-1,Sky Movies Family HD
+http://vmdirect.co.uk:5001/live/121212/121212/124.ts
+#EXTINF:-1,Sky Movies Modern Greats
+http://vmdirect.co.uk:5001/live/121212/121212/127.ts
+#EXTINF:-1,Sky Movies Modern Greats HD
+http://vmdirect.co.uk:5001/live/121212/121212/126.ts
+#EXTINF:-1,Sky Movies Sci-Fi horror
+http://vmdirect.co.uk:5001/live/121212/121212/115.ts
+#EXTINF:-1,Sky Movies Sci-Fi Horror HD
+http://vmdirect.co.uk:5001/live/121212/121212/114.ts
+#EXTINF:-1,Sky Movies Select
+http://vmdirect.co.uk:5001/live/121212/121212/121.ts
+#EXTINF:-1,Sky Movies Select HD
+http://vmdirect.co.uk:5001/live/121212/121212/120.ts
+#EXTINF:-1,Sky Cinema Hits
+http://vmdirect.co.uk:5001/live/121212/121212/129.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://vmdirect.co.uk:5001/live/121212/121212/128.ts
+#EXTINF:-1,UK FILM 4
+http://vmdirect.co.uk:5001/live/121212/121212/1342.ts
+#EXTINF:-1,Film4 HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10555.ts
+#EXTINF:-1,Movies4Men
+http://vmdirect.co.uk:5001/live/121212/121212/107.ts
+#EXTINF:-1,UK FHD : TCM FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84837.ts
+#EXTINF:-1,TCM
+http://vmdirect.co.uk:5001/live/121212/121212/110.ts
+#EXTINF:-1,SKY HITS FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84887.ts
+#EXTINF:-1,MTV Base
+http://vmdirect.co.uk:5001/live/121212/121212/65.ts
+#EXTINF:-1,MTV Classic
+http://vmdirect.co.uk:5001/live/121212/121212/63.ts
+#EXTINF:-1,MTV Dance
+http://vmdirect.co.uk:5001/live/121212/121212/62.ts
+#EXTINF:-1,MTV Hits
+http://vmdirect.co.uk:5001/live/121212/121212/61.ts
+#EXTINF:-1,MTV MUSIC
+http://vmdirect.co.uk:5001/live/121212/121212/15.ts
+#EXTINF:-1,MTV Rocks
+http://vmdirect.co.uk:5001/live/121212/121212/60.ts
+#EXTINF:-1,vh1
+http://vmdirect.co.uk:5001/live/121212/121212/235.ts
+#EXTINF:-1,UK MAGIC
+http://vmdirect.co.uk:5001/live/121212/121212/1356.ts
+#EXTINF:-1,UK THE VAULT
+http://vmdirect.co.uk:5001/live/121212/121212/1357.ts
+#EXTINF:-1,THE FLAVA
+http://vmdirect.co.uk:5001/live/121212/121212/1359.ts
+#EXTINF:-1,UK: ROK
+http://vmdirect.co.uk:5001/live/121212/121212/6448.ts
+#EXTINF:-1,UK FHD : SKY SPORTS ACTION FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84829.ts
+#EXTINF:-1,UK FHD : SKY SPORTS ARENA FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84828.ts
+#EXTINF:-1,UK FHD : SKY SPORTS CRICKET FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84827.ts
+#EXTINF:-1,UK FHD : SKY SPORTS F1 FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84826.ts
+#EXTINF:-1,UK FHD : Sky SPORTS FOOTBALL FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84825.ts
+#EXTINF:-1,UK FHD : SKY SPORTS GOLF FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84824.ts
+#EXTINF:-1,UK FHD : SKY SPORTS MAIN EVENT FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84823.ts
+#EXTINF:-1,UK FHD : SKY SPORTS MIX FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84834.ts
+#EXTINF:-1,UK FHD : SKY SPORTS PREMIER LEAGUE FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84822.ts
+#EXTINF:-1,UK FHD : SKY SPORTS NEWS FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84833.ts
+#EXTINF:-1,UK FHD : BT 1 FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84832.ts
+#EXTINF:-1,UK FHD : BT 2 FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84831.ts
+#EXTINF:-1,UK FHD : BT 3 FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84830.ts
+#EXTINF:-1,UK : ELEVEN LALIGA FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84820.ts
+#EXTINF:-1,UK : ELEVEN SPORTS 2 FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84821.ts
+#EXTINF:-1,UK FHD : EUROSPORTS 1 FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84836.ts
+#EXTINF:-1,UK FHD : EUROSPORTS 2 FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84835.ts
+#EXTINF:-1,UK FHD : FREE SPORTS FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84819.ts
+#EXTINF:-1,RACING UK FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84885.ts
+#EXTINF:-1,Sky Sports Action HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10531.ts
+#EXTINF:-1,Sky Sports Arena HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10530.ts
+#EXTINF:-1,Sky Sports Cricket HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10529.ts
+#EXTINF:-1,Sky Sports F1 HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10528.ts
+#EXTINF:-1,Sky Sports Football HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10527.ts
+#EXTINF:-1,Sky Sports Golf HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10526.ts
+#EXTINF:-1,Sky Sports Main Event HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10525.ts
+#EXTINF:-1,Sky Sports Mix HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10524.ts
+#EXTINF:-1,Sky Sports News HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10523.ts
+#EXTINF:-1,Sky Sports PL HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10522.ts
+#EXTINF:-1,UK: Racing UK HD1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10599.ts
+#EXTINF:-1,uk: BT Sports 2 HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10606.ts
+#EXTINF:-1,Sky Sports Main Event
+http://vmdirect.co.uk:5001/live/121212/121212/106.ts
+#EXTINF:-1,Sky Sports Main Event HD
+http://vmdirect.co.uk:5001/live/121212/121212/105.ts
+#EXTINF:-1,Sky Sports cricket
+http://vmdirect.co.uk:5001/live/121212/121212/104.ts
+#EXTINF:-1,Sky Sports cricket HD
+http://vmdirect.co.uk:5001/live/121212/121212/103.ts
+#EXTINF:-1,Sky Sports Action
+http://vmdirect.co.uk:5001/live/121212/121212/102.ts
+#EXTINF:-1,Sky Sports Action HD
+http://vmdirect.co.uk:5001/live/121212/121212/101.ts
+#EXTINF:-1,Sky Sports the open
+http://vmdirect.co.uk:5001/live/121212/121212/100.ts
+#EXTINF:-1,Sky Sports The open HD
+http://vmdirect.co.uk:5001/live/121212/121212/99.ts
+#EXTINF:-1,Sky Sports Premier league
+http://vmdirect.co.uk:5001/live/121212/121212/98.ts
+#EXTINF:-1,Sky Sports Premier league HD
+http://vmdirect.co.uk:5001/live/121212/121212/97.ts
+#EXTINF:-1,Sky Sports Mix
+http://vmdirect.co.uk:5001/live/121212/121212/96.ts
+#EXTINF:-1,Sky Sports Mix HD
+http://vmdirect.co.uk:5001/live/121212/121212/95.ts
+#EXTINF:-1,Sky Sports News HQ
+http://vmdirect.co.uk:5001/live/121212/121212/94.ts
+#EXTINF:-1,Sky Sports F1
+http://vmdirect.co.uk:5001/live/121212/121212/93.ts
+#EXTINF:-1,Sky sports F1 HD
+http://vmdirect.co.uk:5001/live/121212/121212/92.ts
+#EXTINF:-1,Sports Football HD
+http://vmdirect.co.uk:5001/live/121212/121212/233.ts
+#EXTINF:-1,sports news HQ HD
+http://vmdirect.co.uk:5001/live/121212/121212/236.ts
+#EXTINF:-1,Sky Sports Arena HD
+http://vmdirect.co.uk:5001/live/121212/121212/232.ts
+#EXTINF:-1,sky sports football
+http://vmdirect.co.uk:5001/live/121212/121212/3322.ts
+#EXTINF:-1,sky sports arena
+http://vmdirect.co.uk:5001/live/121212/121212/3323.ts
+#EXTINF:-1,Box Nation
+http://vmdirect.co.uk:5001/live/121212/121212/72.ts
+#EXTINF:-1,BT Sport / ESPN
+http://vmdirect.co.uk:5001/live/121212/121212/81.ts
+#EXTINF:-1,BT Sport / ESPN HD
+http://vmdirect.co.uk:5001/live/121212/121212/80.ts
+#EXTINF:-1,BT Sport 1 HD
+http://vmdirect.co.uk:5001/live/121212/121212/86.ts
+#EXTINF:-1,BT Sport 2 HD
+http://vmdirect.co.uk:5001/live/121212/121212/84.ts
+#EXTINF:-1,BT Sports 3 HD
+http://vmdirect.co.uk:5001/live/121212/121212/82.ts
+#EXTINF:-1,BT Sports 1
+http://vmdirect.co.uk:5001/live/121212/121212/87.ts
+#EXTINF:-1,BT Sports 2
+http://vmdirect.co.uk:5001/live/121212/121212/85.ts
+#EXTINF:-1,BT Sports 3
+http://vmdirect.co.uk:5001/live/121212/121212/83.ts
+#EXTINF:-1,Bt Sports Europe
+http://vmdirect.co.uk:5001/live/121212/121212/40.ts
+#EXTINF:-1,Manchester United TV
+http://vmdirect.co.uk:5001/live/121212/121212/74.ts
+#EXTINF:-1,At The Races
+http://vmdirect.co.uk:5001/live/121212/121212/89.ts
+#EXTINF:-1,eir Sports 2
+http://vmdirect.co.uk:5001/live/121212/121212/76.ts
+#EXTINF:-1,Euro Sport 1
+http://vmdirect.co.uk:5001/live/121212/121212/91.ts
+#EXTINF:-1,Euro Sport 2
+http://vmdirect.co.uk:5001/live/121212/121212/90.ts
+#EXTINF:-1,Racing UK
+http://vmdirect.co.uk:5001/live/121212/121212/88.ts
+#EXTINF:-1,racing uk backup
+http://vmdirect.co.uk:5001/live/121212/121212/2911.ts
+#EXTINF:-1,Euro Sport 1 HD
+http://vmdirect.co.uk:5001/live/121212/121212/6112.ts
+#EXTINF:-1,Euro Sport 2 Hd
+http://vmdirect.co.uk:5001/live/121212/121212/6113.ts
+#EXTINF:-1,Premier Sports
+http://vmdirect.co.uk:5001/live/121212/121212/71.ts
+#EXTINF:-1,eir sports 1 hd
+http://vmdirect.co.uk:5001/live/121212/121212/3320.ts
+#EXTINF:-1,eir sports 2 HD
+http://vmdirect.co.uk:5001/live/121212/121212/72304.ts
+#EXTINF:-1,eir Sports 1
+http://vmdirect.co.uk:5001/live/121212/121212/77.ts
+#EXTINF:-1,at the races backup
+http://vmdirect.co.uk:5001/live/121212/121212/216.ts
+#EXTINF:-1,Chelsea TV
+http://vmdirect.co.uk:5001/live/121212/121212/73.ts
+#EXTINF:-1,LFC TV
+http://vmdirect.co.uk:5001/live/121212/121212/75.ts
+#EXTINF:-1,Sports : Rangers TV (only when match on)
+http://vmdirect.co.uk:5001/live/121212/121212/3766.ts
+#EXTINF:-1,UK: Celtic UK(only when match on)
+http://vmdirect.co.uk:5001/live/121212/121212/3698.ts
+#EXTINF:-1,SkySpBoxOff
+http://vmdirect.co.uk:5001/live/121212/121212/70.ts
+#EXTINF:-1,SkySpBoxOff HD *1080
+http://vmdirect.co.uk:5001/live/121212/121212/6114.ts
+#EXTINF:-1,UK:BoxNation FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/23882.ts
+#EXTINF:-1,ITV Box Off HD
+http://vmdirect.co.uk:5001/live/121212/121212/6115.ts
+#EXTINF:-1,UK: Eurosport 1 FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/17643.ts
+#EXTINF:-1,UK: Eurosport 2 FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/17644.ts
+#EXTINF:-1,UK : BT Sports ESPN 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/23885.ts
+#EXTINF:-1,UK: BT Sports 3 FHD 1080
+http://vmdirect.co.uk:5001/live/121212/121212/23884.ts
+#EXTINF:-1,UK: BT Sports1 FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/23883.ts
+#EXTINF:-1,BT Sport Extra 1
+http://vmdirect.co.uk:5001/live/121212/121212/79.ts
+#EXTINF:-1,BT Sport Extra 2
+http://vmdirect.co.uk:5001/live/121212/121212/78.ts
+#EXTINF:-1,BT Sport Extra 3
+http://vmdirect.co.uk:5001/live/121212/121212/36.ts
+#EXTINF:-1,BT Sport Extra 4
+http://vmdirect.co.uk:5001/live/121212/121212/35.ts
+#EXTINF:-1,BT Sport Extra 5
+http://vmdirect.co.uk:5001/live/121212/121212/34.ts
+#EXTINF:-1,BT Sport Extra 6
+http://vmdirect.co.uk:5001/live/121212/121212/33.ts
+#EXTINF:-1,PREMIER SPORTS FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84879.ts
+#EXTINF:-1,Sky Sports Red Button 1
+http://vmdirect.co.uk:5001/live/121212/121212/84895.ts
+#EXTINF:-1,Sky Sports Red Button 2
+http://vmdirect.co.uk:5001/live/121212/121212/84896.ts
+#EXTINF:-1,Sky Sports Red Button 3
+http://vmdirect.co.uk:5001/live/121212/121212/84897.ts
+#EXTINF:-1,Sky Sports Red Button 4
+http://vmdirect.co.uk:5001/live/121212/121212/84898.ts
+#EXTINF:-1,Sky Sports Red Button 5
+http://vmdirect.co.uk:5001/live/121212/121212/84899.ts
+#EXTINF:-1,Sky Sports Red Button 6
+http://vmdirect.co.uk:5001/live/121212/121212/84900.ts
+#EXTINF:-1,Sky Sports Red Button 7
+http://vmdirect.co.uk:5001/live/121212/121212/84901.ts
+#EXTINF:-1,Sky Sports Red Button 8
+http://vmdirect.co.uk:5001/live/121212/121212/84902.ts
+#EXTINF:-1,Sky Sports Red Button 9
+http://vmdirect.co.uk:5001/live/121212/121212/84903.ts
+#EXTINF:-1,UK I PADDY POWER  {HORSE RACING FLAT}
+http://vmdirect.co.uk:5001/live/121212/121212/84894.ts
+#EXTINF:-1,UK I PADDY POWER  {HORSE RACING JUMPS}
+http://vmdirect.co.uk:5001/live/121212/121212/84893.ts
+#EXTINF:-1,UK I PADDY POWER  {HORSE RACING SPRINT}
+http://vmdirect.co.uk:5001/live/121212/121212/84892.ts
+#EXTINF:-1,UK I PADDY POWER {GREYHOUNDS RACING}
+http://vmdirect.co.uk:5001/live/121212/121212/84888.ts
+#EXTINF:-1,UK I PADDY POWER  {MOTOR SPORTS}
+http://vmdirect.co.uk:5001/live/121212/121212/84891.ts
+#EXTINF:-1,EURO NEWS
+http://vmdirect.co.uk:5001/live/121212/121212/68.ts
+#EXTINF:-1,UK :Sky News
+http://vmdirect.co.uk:5001/live/121212/121212/3924.ts
+#EXTINF:-1,UK BBC NEWS
+http://vmdirect.co.uk:5001/live/121212/121212/1369.ts
+#EXTINF:-1,RTE NEWS NOW
+http://vmdirect.co.uk:5001/live/121212/121212/14.ts
+#EXTINF:-1,Al Jazeera English
+http://vmdirect.co.uk:5001/live/121212/121212/69.ts
+#EXTINF:-1,UK CNN
+http://vmdirect.co.uk:5001/live/121212/121212/1372.ts
+#EXTINF:-1,UK CNBC EU
+http://vmdirect.co.uk:5001/live/121212/121212/1371.ts
+#EXTINF:-1,UK BLOOMBERG
+http://vmdirect.co.uk:5001/live/121212/121212/1370.ts
+#EXTINF:-1,UK FHD : ANIMAL PLANET FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84861.ts
+#EXTINF:-1,UK FHD : DISCOVERY FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84860.ts
+#EXTINF:-1,UK FHD : EDEN FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84859.ts
+#EXTINF:-1,UK FHD : H2 FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84858.ts
+#EXTINF:-1,UK FHD : HISTORY FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84855.ts
+#EXTINF:-1,UK FHD : NAT GEO FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84857.ts
+#EXTINF:-1,UK FHD : NAT GEO WILD FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84856.ts
+#EXTINF:-1,CRIME & INVESTIGATION FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84882.ts
+#EXTINF:-1,UK: Discovery HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10598.ts
+#EXTINF:-1,UK :History HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10593.ts
+#EXTINF:-1,UK :Nat Geo Wild HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10592.ts
+#EXTINF:-1,UK: Eden HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10595.ts
+#EXTINF:-1,UK: H2 HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10594.ts
+#EXTINF:-1,UK: National Geographic HD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/10591.ts
+#EXTINF:-1,UK: Animal Planet FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/23881.ts
+#EXTINF:-1,History
+http://vmdirect.co.uk:5001/live/121212/121212/162.ts
+#EXTINF:-1,History HD
+http://vmdirect.co.uk:5001/live/121212/121212/6120.ts
+#EXTINF:-1,ID
+http://vmdirect.co.uk:5001/live/121212/121212/154.ts
+#EXTINF:-1,Animal Planet
+http://vmdirect.co.uk:5001/live/121212/121212/159.ts
+#EXTINF:-1,Crime and Investigation HD
+http://vmdirect.co.uk:5001/live/121212/121212/156.ts
+#EXTINF:-1,Discovery HD
+http://vmdirect.co.uk:5001/live/121212/121212/150.ts
+#EXTINF:-1,Discovery HD USA
+http://vmdirect.co.uk:5001/live/121212/121212/149.ts
+#EXTINF:-1,Discovery History
+http://vmdirect.co.uk:5001/live/121212/121212/151.ts
+#EXTINF:-1,Discovery Science
+http://vmdirect.co.uk:5001/live/121212/121212/157.ts
+#EXTINF:-1,Discovery Shed
+http://vmdirect.co.uk:5001/live/121212/121212/155.ts
+#EXTINF:-1,DiscoveryTurbo
+http://vmdirect.co.uk:5001/live/121212/121212/158.ts
+#EXTINF:-1,Eden
+http://vmdirect.co.uk:5001/live/121212/121212/160.ts
+#EXTINF:-1,H2
+http://vmdirect.co.uk:5001/live/121212/121212/153.ts
+#EXTINF:-1,Nat Geo Wild
+http://vmdirect.co.uk:5001/live/121212/121212/161.ts
+#EXTINF:-1,Home and Health
+http://vmdirect.co.uk:5001/live/121212/121212/152.ts
+#EXTINF:-1,National Geographic
+http://vmdirect.co.uk:5001/live/121212/121212/163.ts
+#EXTINF:-1,Discovery
+http://vmdirect.co.uk:5001/live/121212/121212/6123.ts
+#EXTINF:-1,Crime and Investigation
+http://vmdirect.co.uk:5001/live/121212/121212/6121.ts
+#EXTINF:-1,Animal Planet HD
+http://vmdirect.co.uk:5001/live/121212/121212/6124.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://vmdirect.co.uk:5001/live/121212/121212/6119.ts
+#EXTINF:-1,National Geographic HD
+http://vmdirect.co.uk:5001/live/121212/121212/6118.ts
+#EXTINF:-1,DMAX
+http://vmdirect.co.uk:5001/live/121212/121212/42.ts
+#EXTINF:-1,Cartoon Network
+http://vmdirect.co.uk:5001/live/121212/121212/140.ts
+#EXTINF:-1,Cartoon Network HD
+http://vmdirect.co.uk:5001/live/121212/121212/6128.ts
+#EXTINF:-1,Cartoonito
+http://vmdirect.co.uk:5001/live/121212/121212/38.ts
+#EXTINF:-1,Disney Jr
+http://vmdirect.co.uk:5001/live/121212/121212/145.ts
+#EXTINF:-1,Disney Jr HD
+http://vmdirect.co.uk:5001/live/121212/121212/6125.ts
+#EXTINF:-1,Disney plus 1
+http://vmdirect.co.uk:5001/live/121212/121212/219.ts
+#EXTINF:-1,Disney XD
+http://vmdirect.co.uk:5001/live/121212/121212/147.ts
+#EXTINF:-1,Nick Jr
+http://vmdirect.co.uk:5001/live/121212/121212/138.ts
+#EXTINF:-1,Nick Jr HD
+http://vmdirect.co.uk:5001/live/121212/121212/6130.ts
+#EXTINF:-1,NICK JR TOO
+http://vmdirect.co.uk:5001/live/121212/121212/137.ts
+#EXTINF:-1,Nickelodeon
+http://vmdirect.co.uk:5001/live/121212/121212/143.ts
+#EXTINF:-1,Nickelodeon HD
+http://vmdirect.co.uk:5001/live/121212/121212/6127.ts
+#EXTINF:-1,Nicktoons
+http://vmdirect.co.uk:5001/live/121212/121212/136.ts
+#EXTINF:-1,BabyTV
+http://vmdirect.co.uk:5001/live/121212/121212/37.ts
+#EXTINF:-1,CBeebies
+http://vmdirect.co.uk:5001/live/121212/121212/148.ts
+#EXTINF:-1,POP
+http://vmdirect.co.uk:5001/live/121212/121212/139.ts
+#EXTINF:-1,RTE JR
+http://vmdirect.co.uk:5001/live/121212/121212/141.ts
+#EXTINF:-1,Disney Channel
+http://vmdirect.co.uk:5001/live/121212/121212/144.ts
+#EXTINF:-1,Disney Channel HD
+http://vmdirect.co.uk:5001/live/121212/121212/6126.ts
+#EXTINF:-1,UK: CITV
+http://vmdirect.co.uk:5001/live/121212/121212/6456.ts
+#EXTINF:-1,UK: TINY POP
+http://vmdirect.co.uk:5001/live/121212/121212/6455.ts
+#EXTINF:-1,UK: CBBC
+http://vmdirect.co.uk:5001/live/121212/121212/6454.ts
+#EXTINF:-1,UK: Cartoonnetwork FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/23886.ts
+#EXTINF:-1,UK: CBeebies FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/23880.ts
+#EXTINF:-1,UK: Nick FHD 1080*
+http://vmdirect.co.uk:5001/live/121212/121212/23878.ts
+#EXTINF:-1,Boomerang
+http://vmdirect.co.uk:5001/live/121212/121212/135.ts
+#EXTINF:-1,UK FHD : CARTOON NETWORK FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84863.ts
+#EXTINF:-1,UK FHD : DISNEY JUNIOR HD
+http://vmdirect.co.uk:5001/live/121212/121212/84865.ts
+#EXTINF:-1,UK FHD : DISNEY XD HD
+http://vmdirect.co.uk:5001/live/121212/121212/84864.ts
+#EXTINF:-1,UK FHD : NICK FHD
+http://vmdirect.co.uk:5001/live/121212/121212/84862.ts
