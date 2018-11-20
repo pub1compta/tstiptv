@@ -1,87 +1,271 @@
 #EXTM3U
-#EXTINF:-1,BEIN SPORT 11 HD
-http://vmdirect.co.uk:5001/live/121212/121212/47.ts
-#EXTINF:-1,BEIN SPORT 12  HD
-http://vmdirect.co.uk:5001/live/121212/121212/46.ts
-#EXTINF:-1,AR : Bein Sports 1
-http://vmdirect.co.uk:5001/live/121212/121212/243.ts
-#EXTINF:-1,AR : Bein Sports 10
-http://vmdirect.co.uk:5001/live/121212/121212/252.ts
-#EXTINF:-1,AR : Bein Sports 2
-http://vmdirect.co.uk:5001/live/121212/121212/244.ts
-#EXTINF:-1,AR : Bein Sports 3
-http://vmdirect.co.uk:5001/live/121212/121212/245.ts
-#EXTINF:-1,AR : Bein Sports 4
-http://vmdirect.co.uk:5001/live/121212/121212/246.ts
-#EXTINF:-1,AR : Bein Sports 5
-http://vmdirect.co.uk:5001/live/121212/121212/247.ts
-#EXTINF:-1,AR : Bein Sports 6
-http://vmdirect.co.uk:5001/live/121212/121212/248.ts
-#EXTINF:-1,AR : Bein Sports 7
-http://vmdirect.co.uk:5001/live/121212/121212/249.ts
-#EXTINF:-1,AR : Bein Sports 8
-http://vmdirect.co.uk:5001/live/121212/121212/250.ts
-#EXTINF:-1,AR : Bein Sports 9
-http://vmdirect.co.uk:5001/live/121212/121212/251.ts
-#EXTINF:-1,AR: Bein Max 2
-http://vmdirect.co.uk:5001/live/121212/121212/38484.ts
-#EXTINF:-1,AR : Bein Max 1
-http://vmdirect.co.uk:5001/live/121212/121212/38485.ts
-#EXTINF:-1,AR : Bein Max 4
-http://vmdirect.co.uk:5001/live/121212/121212/38961.ts
-#EXTINF:-1,(FR) BEIN SPORT 1 HD
-http://vmdirect.co.uk:5001/live/121212/121212/72559.ts
-#EXTINF:-1,(FR) BEIN SPORT 2 HD
-http://vmdirect.co.uk:5001/live/121212/121212/72558.ts
-#EXTINF:-1,(FR) BEIN SPORT 3 HD
-http://vmdirect.co.uk:5001/live/121212/121212/72557.ts
-#EXTINF:-1,(FR) BEIN SPORT MAX 10
-http://vmdirect.co.uk:5001/live/121212/121212/72550.ts
-#EXTINF:-1,(FR) BEIN SPORT MAX 4
-http://vmdirect.co.uk:5001/live/121212/121212/72556.ts
-#EXTINF:-1,(FR) BEIN SPORT MAX 5
-http://vmdirect.co.uk:5001/live/121212/121212/72555.ts
-#EXTINF:-1,(FR) BEIN SPORT MAX 6
-http://vmdirect.co.uk:5001/live/121212/121212/72554.ts
-#EXTINF:-1,(FR) BEIN SPORT MAX 7
-http://vmdirect.co.uk:5001/live/121212/121212/72553.ts
-#EXTINF:-1,(FR) BEIN SPORT MAX 8
-http://vmdirect.co.uk:5001/live/121212/121212/72552.ts
-#EXTINF:-1,(FR) BEIN SPORT MAX 9
-http://vmdirect.co.uk:5001/live/121212/121212/72551.ts
-#EXTINF:-1,|ES| BEIN  LALIGA 3
-http://vmdirect.co.uk:5001/live/121212/121212/37893.ts
-#EXTINF:-1,|ES| BEIN LALIGA
-http://vmdirect.co.uk:5001/live/121212/121212/37892.ts
-#EXTINF:-1,|ES| BEIN LALIGA 1
-http://vmdirect.co.uk:5001/live/121212/121212/37891.ts
-#EXTINF:-1,|ES| BEIN LALIGA 5
-http://vmdirect.co.uk:5001/live/121212/121212/37890.ts
-#EXTINF:-1,|ES| BEIN LALIGA 6
-http://vmdirect.co.uk:5001/live/121212/121212/37889.ts
-#EXTINF:-1,|ES| BEIN LALIGA 7
-http://vmdirect.co.uk:5001/live/121212/121212/37888.ts
-#EXTINF:-1,|ES| BEIN LIGA HD
-http://vmdirect.co.uk:5001/live/121212/121212/37887.ts
-#EXTINF:-1,|ES| BEIN MAX 1
-http://vmdirect.co.uk:5001/live/121212/121212/37886.ts
-#EXTINF:-1,|ES| BEIN MAX 2 hd
-http://vmdirect.co.uk:5001/live/121212/121212/37885.ts
-#EXTINF:-1,|ES| BEIN MAX 7
-http://vmdirect.co.uk:5001/live/121212/121212/37884.ts
-#EXTINF:-1,|ES| BEIN SPORT HD
-http://vmdirect.co.uk:5001/live/121212/121212/37882.ts
-#EXTINF:-1,|ES| Bein Sports MAX 3  Espa
-http://vmdirect.co.uk:5001/live/121212/121212/37881.ts
-#EXTINF:-1,|ES| Bein Sports MAX 4
-http://vmdirect.co.uk:5001/live/121212/121212/37880.ts
-#EXTINF:-1,|ES| Bein Sports MAX 5
-http://vmdirect.co.uk:5001/live/121212/121212/37879.ts
-#EXTINF:-1,|ES| BEINLALIGA 2 HD
-http://vmdirect.co.uk:5001/live/121212/121212/37878.ts
-#EXTINF:-1,|ES| BEINLALIGA4
-http://vmdirect.co.uk:5001/live/121212/121212/37877.ts
-#EXTINF:-1,|ES| BEINLALIGA8
-http://vmdirect.co.uk:5001/live/121212/121212/37876.ts
-#EXTINF:-1,|ES| BEINSPORT
-http://vmdirect.co.uk:5001/live/121212/121212/37883.ts
+#EXTINF:-1,FR: Ushuaia TV HD
+http://212.8.248.197:8080/live/leroy/leroy/72534.ts
+#EXTINF:-1,FR: SCIENCES & VIE
+http://212.8.248.197:8080/live/leroy/leroy/72533.ts
+#EXTINF:-1,FR: Animaux HD
+http://212.8.248.197:8080/live/leroy/leroy/72532.ts
+#EXTINF:-1,FR: NatIional Geo HD
+http://212.8.248.197:8080/live/leroy/leroy/324.ts
+#EXTINF:-1,FR: Discovery Science HD
+http://212.8.248.197:8080/live/leroy/leroy/323.ts
+#EXTINF:-1,UK: Sky Discovery Science
+http://212.8.248.197:8080/live/leroy/leroy/526.ts
+#EXTINF:-1,UK: Sky Discovery History
+http://212.8.248.197:8080/live/leroy/leroy/491.ts
+#EXTINF:-1,UK: Sky Discovery Turbo
+http://212.8.248.197:8080/live/leroy/leroy/465.ts
+#EXTINF:-1,UK: Sky Discovery Shed
+http://212.8.248.197:8080/live/leroy/leroy/445.ts
+#EXTINF:-1,UK: Sky Discovery
+http://212.8.248.197:8080/live/leroy/leroy/464.ts
+#EXTINF:-1,UK: Sky National Geographic HD
+http://212.8.248.197:8080/live/leroy/leroy/499.ts
+#EXTINF:-1,UK: Sky Nat Geo Wild HD
+http://212.8.248.197:8080/live/leroy/leroy/498.ts
+#EXTINF:-1,UK: Sky Animal Planet HD
+http://212.8.248.197:8080/live/leroy/leroy/497.ts
+#EXTINF:-1,US: Discovery World
+http://212.8.248.197:8080/live/leroy/leroy/1499.ts
+#EXTINF:-1,US: NatGeo Wild
+http://212.8.248.197:8080/live/leroy/leroy/1484.ts
+#EXTINF:-1,US: Animal Planet+1
+http://212.8.248.197:8080/live/leroy/leroy/1467.ts
+#EXTINF:-1,US: Discovery Velocity HD
+http://212.8.248.197:8080/live/leroy/leroy/1529.ts
+#EXTINF:-1,US: Crime and Investigation
+http://212.8.248.197:8080/live/leroy/leroy/1511.ts
+#EXTINF:-1,AR: Osn Discovry
+http://212.8.248.197:8080/live/leroy/leroy/2430.ts
+#EXTINF:-1,AR: Osn Discovry ID
+http://212.8.248.197:8080/live/leroy/leroy/2431.ts
+#EXTINF:-1,AR: Osn Discovry SCI ID
+http://212.8.248.197:8080/live/leroy/leroy/2432.ts
+#EXTINF:-1,AR: Osn Nat Geo People HD
+http://212.8.248.197:8080/live/leroy/leroy/2429.ts
+#EXTINF:-1,AR: Osn National Geo HD
+http://212.8.248.197:8080/live/leroy/leroy/2358.ts
+#EXTINF:-1,AR: Osn Nat Geo Wild HD
+http://212.8.248.197:8080/live/leroy/leroy/2357.ts
+#EXTINF:-1,AR: Osn Animal Planet
+http://212.8.248.197:8080/live/leroy/leroy/2383.ts
+#EXTINF:-1,FR: M6 HD
+http://212.8.248.197:8080/live/leroy/leroy/291.ts
+#EXTINF:-1,FR: France 0
+http://212.8.248.197:8080/live/leroy/leroy/301.ts
+#EXTINF:-1,FR: France 2
+http://212.8.248.197:8080/live/leroy/leroy/300.ts
+#EXTINF:-1,FR: France 3
+http://212.8.248.197:8080/live/leroy/leroy/299.ts
+#EXTINF:-1,FR: France 4
+http://212.8.248.197:8080/live/leroy/leroy/298.ts
+#EXTINF:-1,FR: France 5
+http://212.8.248.197:8080/live/leroy/leroy/297.ts
+#EXTINF:-1,FR: France 24
+http://212.8.248.197:8080/live/leroy/leroy/349.ts
+#EXTINF:-1,UK: Sky BBC News
+http://212.8.248.197:8080/live/leroy/leroy/428.ts
+#EXTINF:-1,UK: Sky ITV 1
+http://212.8.248.197:8080/live/leroy/leroy/471.ts
+#EXTINF:-1,UK: Sky ITV 2
+http://212.8.248.197:8080/live/leroy/leroy/470.ts
+#EXTINF:-1,UK: Sky ITV 3
+http://212.8.248.197:8080/live/leroy/leroy/469.ts
+#EXTINF:-1,UK: Sky ITV 4
+http://212.8.248.197:8080/live/leroy/leroy/468.ts
+#EXTINF:-1,UK: Sky ITV Be
+http://212.8.248.197:8080/live/leroy/leroy/429.ts
+#EXTINF:-1,UK: Sky ITV Encore
+#EXTINF:-1,UK: Sky BBC One HD
+http://212.8.248.197:8080/live/leroy/leroy/488.ts
+#EXTINF:-1,UK: Sky BBC Two HD
+http://212.8.248.197:8080/live/leroy/leroy/487.ts
+#EXTINF:-1,UK: Sky BBC Three HD
+http://212.8.248.197:8080/live/leroy/leroy/486.ts
+#EXTINF:-1,UK: Sky BBC Four HD
+http://212.8.248.197:8080/live/leroy/leroy/485.ts
+#EXTINF:-1,UK: Sky Channel 4 HD
+http://212.8.248.197:8080/live/leroy/leroy/426.ts
+#EXTINF:-1,UK: Sky Channel 5 HD
+http://212.8.248.197:8080/live/leroy/leroy/427.ts
+#EXTINF:-1,UK: Sky Sony Movies
+http://212.8.248.197:8080/live/leroy/leroy/501.ts
+#EXTINF:-1,UK: Sky Bloomberg HD
+http://212.8.248.197:8080/live/leroy/leroy/457.ts
+#EXTINF:-1,UK: Sky Boomerang
+http://212.8.248.197:8080/live/leroy/leroy/444.ts
+#EXTINF:-1,UK: Sky Cartoon Network
+http://212.8.248.197:8080/live/leroy/leroy/522.ts
+#EXTINF:-1,FR: Beinsport 1
+http://212.8.248.197:8080/live/leroy/leroy/366.ts
+#EXTINF:-1,FR: Beinsport 2
+http://212.8.248.197:8080/live/leroy/leroy/365.ts
+#EXTINF:-1,FR: Beinsport 3
+http://212.8.248.197:8080/live/leroy/leroy/364.ts
+#EXTINF:-1,FR: Bein Sport Max 4
+http://212.8.248.197:8080/live/leroy/leroy/397.ts
+#EXTINF:-1,FR: Bein Sport Max 5
+http://212.8.248.197:8080/live/leroy/leroy/398.ts
+#EXTINF:-1,FR: Bein Sport Max 6
+http://212.8.248.197:8080/live/leroy/leroy/399.ts
+#EXTINF:-1,FR: Bein Sport Max 7
+http://212.8.248.197:8080/live/leroy/leroy/400.ts
+#EXTINF:-1,FR: Bein Sport Max 8
+http://212.8.248.197:8080/live/leroy/leroy/401.ts
+#EXTINF:-1,FR: Bein Sport Max 9
+http://212.8.248.197:8080/live/leroy/leroy/402.ts
+#EXTINF:-1,FR: Bein Sport Max 10
+#EXTINF:-1,AR: Bein Sport 1 HD
+http://212.8.248.197:8080/live/leroy/leroy/169.ts
+#EXTINF:-1,AR: Bein Sport 2 HD
+http://212.8.248.197:8080/live/leroy/leroy/168.ts
+#EXTINF:-1,AR: Bein Sport 3 HD
+http://212.8.248.197:8080/live/leroy/leroy/167.ts
+#EXTINF:-1,AR: Bein Sport 4 HD
+http://212.8.248.197:8080/live/leroy/leroy/166.ts
+#EXTINF:-1,AR: Bein Sport 5 HD
+http://212.8.248.197:8080/live/leroy/leroy/165.ts
+#EXTINF:-1,AR: Bein Sport 6 HD
+http://212.8.248.197:8080/live/leroy/leroy/164.ts
+#EXTINF:-1,AR: Bein Sport 7 HD
+http://212.8.248.197:8080/live/leroy/leroy/163.ts
+#EXTINF:-1,AR: Bein Sport 8 HD
+http://212.8.248.197:8080/live/leroy/leroy/162.ts
+#EXTINF:-1,AR: Bein Sport 9 HD
+http://212.8.248.197:8080/live/leroy/leroy/161.ts
+#EXTINF:-1,AR: Bein Sport 10 HD
+http://212.8.248.197:8080/live/leroy/leroy/160.ts
+#EXTINF:-1,AR: Bein Sport 11 HD
+http://212.8.248.197:8080/live/leroy/leroy/159.ts
+#EXTINF:-1,AR: Bein Sport 12 HD
+http://212.8.248.197:8080/live/leroy/leroy/170.ts
+#EXTINF:-1,AR: Bein Sport 1 SD
+http://212.8.248.197:8080/live/leroy/leroy/2456.ts
+#EXTINF:-1,AR: Bein Sport 2 SD
+http://212.8.248.197:8080/live/leroy/leroy/2457.ts
+#EXTINF:-1,AR: Bein Sport 3 SD
+http://212.8.248.197:8080/live/leroy/leroy/2458.ts
+#EXTINF:-1,AR: Bein Sport 4 SD
+http://212.8.248.197:8080/live/leroy/leroy/2459.ts
+#EXTINF:-1,AR: Bein Sport 5 SD
+http://212.8.248.197:8080/live/leroy/leroy/2460.ts
+#EXTINF:-1,AR: Bein Sport 6 SD
+http://212.8.248.197:8080/live/leroy/leroy/2461.ts
+#EXTINF:-1,AR: Bein Sport 7 SD
+http://212.8.248.197:8080/live/leroy/leroy/2462.ts
+#EXTINF:-1,AR: Bein Sport 8 SD
+http://212.8.248.197:8080/live/leroy/leroy/2463.ts
+#EXTINF:-1,AR: Bein Sport 9 SD
+http://212.8.248.197:8080/live/leroy/leroy/2464.ts
+#EXTINF:-1,AR: Bein Sport 10 SD
+http://212.8.248.197:8080/live/leroy/leroy/2465.ts
+#EXTINF:-1,AR: Bein Sport 11 SD
+http://212.8.248.197:8080/live/leroy/leroy/2466.ts
+#EXTINF:-1,AR: Bein Sport 12 SD
+http://212.8.248.197:8080/live/leroy/leroy/2467.ts
+#EXTINF:-1,AR: Bein Sport 1 Low
+http://212.8.248.197:8080/live/leroy/leroy/2472.ts
+#EXTINF:-1,AR: Bein Sport 2 Low
+http://212.8.248.197:8080/live/leroy/leroy/2473.ts
+#EXTINF:-1,AR: Bein Sport 3 Low
+http://212.8.248.197:8080/live/leroy/leroy/2481.ts
+#EXTINF:-1,AR: Bein Sport 4 Low
+http://212.8.248.197:8080/live/leroy/leroy/2474.ts
+#EXTINF:-1,AR: Bein Sport 5 Low
+http://212.8.248.197:8080/live/leroy/leroy/2475.ts
+#EXTINF:-1,AR: Bein Sport 6 Low
+http://212.8.248.197:8080/live/leroy/leroy/2476.ts
+#EXTINF:-1,AR: Bein Sport 7 Low
+http://212.8.248.197:8080/live/leroy/leroy/2477.ts
+#EXTINF:-1,AR: Bein Sport 8 Low
+http://212.8.248.197:8080/live/leroy/leroy/2478.ts
+#EXTINF:-1,AR: Bein Sport 9 Low
+http://212.8.248.197:8080/live/leroy/leroy/2479.ts
+#EXTINF:-1,AR: Bein Sport 10 Low
+http://212.8.248.197:8080/live/leroy/leroy/2480.ts
+#EXTINF:-1,AR: Bein Sport Max 1 HD
+http://212.8.248.197:8080/live/leroy/leroy/179.ts
+#EXTINF:-1,AR: Bein Sport Max 1 SD
+http://212.8.248.197:8080/live/leroy/leroy/171.ts
+#EXTINF:-1,AR: Bein Sport Max 2 HD
+http://212.8.248.197:8080/live/leroy/leroy/180.ts
+#EXTINF:-1,AR: Bein Sport Max 2 SD
+http://212.8.248.197:8080/live/leroy/leroy/2482.ts
+#EXTINF:-1,AR: Bein Sport Max 3 HD
+http://212.8.248.197:8080/live/leroy/leroy/181.ts
+#EXTINF:-1,AR: Bein Sport News HD
+http://212.8.248.197:8080/live/leroy/leroy/172.ts
+#EXTINF:-1,AR: Bein Sport Q
+http://212.8.248.197:8080/live/leroy/leroy/173.ts
+#EXTINF:-1,AR: Bein Movies 1
+http://212.8.248.197:8080/live/leroy/leroy/175.ts
+#EXTINF:-1,AR: Bein Movies 2
+http://212.8.248.197:8080/live/leroy/leroy/176.ts
+#EXTINF:-1,AR: Bein Movies 3
+http://212.8.248.197:8080/live/leroy/leroy/177.ts
+#EXTINF:-1,AR: Bein Movies 4
+http://212.8.248.197:8080/live/leroy/leroy/178.ts
+XTINF:-1,AR: Osn Cinema 1
+http://212.8.248.197:8080/live/leroy/leroy/2384.ts
+#EXTINF:-1,AR: Osn Cinema 2
+http://212.8.248.197:8080/live/leroy/leroy/2385.ts
+#EXTINF:-1,AR: Osn AL Safwa
+http://212.8.248.197:8080/live/leroy/leroy/2390.ts
+#EXTINF:-1,AR: Osn Yahla Cinma
+http://212.8.248.197:8080/live/leroy/leroy/2391.ts
+#EXTINF:-1,AR: Osn Yahla
+http://212.8.248.197:8080/live/leroy/leroy/2420.ts
+#EXTINF:-1,AR: Osn MBC+ Drama
+http://212.8.248.197:8080/live/leroy/leroy/2387.ts
+#EXTINF:-1,AR: Osn MBC Variety HD
+http://212.8.248.197:8080/live/leroy/leroy/2397.ts
+#EXTINF:-1,AR: Osn Mousalsalat
+http://212.8.248.197:8080/live/leroy/leroy/2398.ts
+#EXTINF:-1,AR: Osn bien Series HD 1
+http://212.8.248.197:8080/live/leroy/leroy/2400.ts
+#EXTINF:-1,AR: Osn SeeVii Prime 1 HD
+http://212.8.248.197:8080/live/leroy/leroy/2399.ts
+#EXTINF:-1,AR: Osn SeeVii Prime 2 HD
+http://212.8.248.197:8080/live/leroy/leroy/2386.ts
+#EXTINF:-1,AR: Osn SeeVii Drama HD
+http://212.8.248.197:8080/live/leroy/leroy/2366.ts
+#EXTINF:-1,AR: Osn SeeVii Beelink HD
+http://212.8.248.197:8080/live/leroy/leroy/2368.ts
+#EXTINF:-1,AR: Osn SeeVii Shamiya HD
+http://212.8.248.197:8080/live/leroy/leroy/2367.ts
+#EXTINF:-1,AR: Osn SeeVii Al Aoula HD
+http://212.8.248.197:8080/live/leroy/leroy/2365.ts
+#EXTINF:-1,AR: Osn Movies HD
+http://212.8.248.197:8080/live/leroy/leroy/2374.ts
+#EXTINF:-1,AR: Osn Movies Action HD
+http://212.8.248.197:8080/live/leroy/leroy/2375.ts
+#EXTINF:-1,AR: Osn Movies Action 2 HD
+http://212.8.248.197:8080/live/leroy/leroy/2376.ts
+#EXTINF:-1,AR: Osn Movies Premier 2
+http://212.8.248.197:8080/live/leroy/leroy/2378.ts
+#EXTINF:-1,AR: Osn Movies Comdy HD
+http://212.8.248.197:8080/live/leroy/leroy/2372.ts
+#EXTINF:-1,AR: Osn Movies Drama
+http://212.8.248.197:8080/live/leroy/leroy/2426.ts
+#EXTINF:-1,AR: Osn Movies Festival
+http://212.8.248.197:8080/live/leroy/leroy/2424.ts
+#EXTINF:-1,AR: Osn Movies Premier HD
+http://212.8.248.197:8080/live/leroy/leroy/2405.ts
+#EXTINF:-1,AR: Osn Movies Hollywood
+http://212.8.248.197:8080/live/leroy/leroy/2370.ts
+#EXTINF:-1,AR: Osn Movies Hollywood 2
+http://212.8.248.197:8080/live/leroy/leroy/2371.ts
+#EXTINF:-1,AR: Osn Movies Kids
+http://212.8.248.197:8080/live/leroy/leroy/2379.ts
+#EXTINF:-1,AR: Osn Movies Disny
+http://212.8.248.197:8080/live/leroy/leroy/2380.ts
+#EXTINF:-1,AR: Osn Box Offiec 1
+http://212.8.248.197:8080/live/leroy/leroy/2419.ts
+#EXTINF:-1,AR: Osn Box Offiec 2
+http://212.8.248.197:8080/live/leroy/leroy/2418.ts
+#EXTINF:-1,AR: Osn Box Offiec 3
+http://212.8.248.197:8080/live/leroy/leroy/2417.ts
+#EXTINF:-1,AR: Osn Demand HD
+http://212.8.248.197:8080/live/leroy/leroy/2369.ts
+#EXTINF:-1,AR: Osn Demand 2 HD
+http://212.8.248.197:8080/live/leroy/leroy/2359.ts
