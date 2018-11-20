@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,FR: Ushuaia TV HD
-http://212.8.248.213:8080/live/leroy/leroy/72534.ts
+http://212.8.248.213:8080/live/leroy/leroy/329.ts
 #EXTINF:-1,FR: SCIENCES & VIE
-http://212.8.248.213:8080/live/leroy/leroy/72533.ts
+http://212.8.248.213:8080/live/leroy/leroy/354.ts
 #EXTINF:-1,FR: Animaux HD
-http://212.8.248.213:8080/live/leroy/leroy/72532.ts
+http://212.8.248.213:8080/live/leroy/leroy/303.ts
 #EXTINF:-1,FR: NatIional Geo HD
 http://212.8.248.213:8080/live/leroy/leroy/324.ts
 #EXTINF:-1,FR: Discovery Science HD
