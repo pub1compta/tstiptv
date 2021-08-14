@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="National 1 H" group-title="arab",National 1 Hd
+http://cdng.pubcdn.tn/iptv/ch16?code=170146352044968
+#EXTINF:-1 tvg-id="" tvg-name="National 2 H" group-title="arab",National 2 Hd
+http://cdng.pubcdn.tn/iptv/ch2?code=170146352044968
+#EXTINF:-1 tvg-id="" tvg-name="National 3 H" group-title="arab",National 3 Hd
+http://cdng.pubcdn.tn/iptv/ch19?code=170146352044968
+#EXTINF:-1 tvg-id="" tvg-name="jawhara" group-title="arab",jawhara
+http://cdng.pubcdn.tn/iptv/ch804?code=170146352044968
+#EXTINF:-1 tvg-id="" tvg-name="hiwat tunsi" group-title="arab",hiwar tunsi
+http://cdng.pubcdn.tn/iptv/ch3?code=170146352044968
+
